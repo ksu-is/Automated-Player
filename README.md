@@ -1,2 +1,2 @@
 # Automated Player
-Users can define specific tasks such as woodcutting, mining, fishing, or even quest-specific activities
+Users can define specific task to auto click in intervals.
