@@ -2,7 +2,7 @@ import pyautogui
 from pynput.keyboard import *
 
 #  ======== settings ========
-delay = 2.5  # in seconds
+delay = 3  # in seconds
 resume_key = Key.f1
 pause_key = Key.f2
 exit_key = Key.esc
