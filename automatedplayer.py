@@ -3,7 +3,7 @@ import pyautogui
 from pynput.keyboard import *
 #Made with Visual Studio!!!
 #  ======== settings ========
-delay = 2.5  # in seconds
+delay = 3  # in seconds
 resume_key = Key.f1
 pause_key = Key.f2
 exit_key = Key.esc
@@ -35,7 +35,7 @@ def display_controls():
     print("\t F1 = Resume")
     print("\t F2 = Pause")
     print("\t ESC = Exit")
-    print("-----------------------------------------------------")
+    print("----------------------------------------------------")
     print('Press F1 to start ...')
 
 
