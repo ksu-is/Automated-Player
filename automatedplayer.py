@@ -3,7 +3,7 @@ import pyautogui
 from pynput.keyboard import *
 #Made with Visual Studio!!!
 #  ======== settings ========
-delay = 3  # in seconds
+delay = 2.5  # in seconds
 resume_key = Key.f1
 pause_key = Key.f2
 exit_key = Key.esc
@@ -28,14 +28,14 @@ def on_press(key):
 
 
 def display_controls():
-    print("// AutoClicker by Mika Meijer")
+    print("// AutoClicker by Andy Lau")
     print("// - Settings: ")
     print("\t delay = " + str(delay) + ' sec' + '\n')
     print("// - Controls:")
     print("\t F1 = Resume")
     print("\t F2 = Pause")
     print("\t ESC = Exit")
-    print("----------------------------------------------------")
+    print("-----------------------------------------------------")
     print('Press F1 to start ...')
 
 
@@ -53,3 +53,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
