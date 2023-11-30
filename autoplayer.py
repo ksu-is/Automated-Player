@@ -1,6 +1,7 @@
+#By Andy Lau
 import pyautogui
 from pynput.keyboard import *
-
+#Made with Visual Studio!
 #  ======== settings ========
 delay = 3  # in seconds
 resume_key = Key.f1
