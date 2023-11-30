@@ -5,5 +5,6 @@
 - [x] Create a .py file
 - [x] Begin writing code
 # Sprint 3
-- [x] Create a poewrpoint 
+- [x] Create a powerpoint 
 - [x] Upload and complete assignments
+- [x] QUIZ
